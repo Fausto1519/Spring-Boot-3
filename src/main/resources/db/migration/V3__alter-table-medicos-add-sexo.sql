@@ -1,0 +1,1 @@
+alter table vollmed_api.medicos add sexo varchar(1) not null;
